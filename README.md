@@ -26,6 +26,6 @@
 https://www.javatpoint.com/applications-of-stack-in-data-structure
 ![image](https://user-images.githubusercontent.com/125802204/221756817-8ed25a35-495c-4ec5-b624-65640b65f19b.png)
 <br>
-<b><ins>Output</b></ins>
+<b><ins>Output</b></ins><br>
 <img width="952" alt="stack using array" src="https://user-images.githubusercontent.com/124968304/234180383-00cdc0df-39c7-444f-b934-2ff98e5e7202.png">
 
